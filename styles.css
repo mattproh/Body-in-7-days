@@ -31,7 +31,7 @@ section {
   height: 100vh; 
   background: 
     linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 30%, #F9F6F1 90%),
-    url('hero.JPEG') center top / cover no-repeat;
+    url('hero.png') center top / cover no-repeat;
   color: white;
   display: flex;
   align-items: center;
@@ -42,7 +42,7 @@ section {
 }
 
 .hero-content {
-  max-width: 750px;
+  max-width: 5000px;
   background: rgba(255, 255, 255, 0.25); 
   padding: 10px;
   border-radius: 16px;
