@@ -31,7 +31,7 @@ section {
   height: 100vh; 
   background: 
     linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 30%, #F9F6F1 90%),
-    url('hero.png') center top / cover no-repeat;
+    url('hero2.JPEG') center top / cover no-repeat;
   color: white;
   display: flex;
   align-items: center;
